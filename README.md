@@ -10,7 +10,7 @@ ThinkPHP 8.0
 * 依赖`think-orm`3.0版本
 * `6.0`/`6.1`无缝升级
 
-> ThinkPHP8.0的运行环境要求PHP8.0.0+
+> ThinkPHP8.0的运行环境要求PHP8.0+
 
 现在开始，你可以使用官方提供的[ThinkChat](https://chat.topthink.com/)，让你在学习ThinkPHP的旅途中享受私人AI助理服务！
 
@@ -69,7 +69,7 @@ ThinkPHP遵循Apache2开源协议发布，并提供免费使用。
 
 本项目包含的第三方源码和二进制文件之版权信息另行标注。
 
-版权所有Copyright © 2006-2023 by ThinkPHP (http://thinkphp.cn) All rights reserved。
+版权所有Copyright © 2006-2024 by ThinkPHP (http://thinkphp.cn) All rights reserved。
 
 ThinkPHP® 商标和著作权所有者为上海顶想信息科技有限公司。
 
