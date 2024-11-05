@@ -18,8 +18,6 @@ return [
     'route_complete_match'  => false,
     // 去除斜杠
     'remove_slash'          => false,
-    // 使用注解路由
-    'route_annotation'      => false,
     // 默认的路由变量规则
     'default_route_pattern' => '[\w\.]+',
     // URL伪静态后缀
