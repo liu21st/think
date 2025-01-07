@@ -1,6 +1,7 @@
 #!/usr/bin/env php
 <?php
-namespace think;
+
+use think\App;
 
 // 命令行入口文件
 // 加载基础文件
