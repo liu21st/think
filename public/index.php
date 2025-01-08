@@ -9,8 +9,9 @@
 // | Author: liu21st <liu21st@gmail.com>
 // +----------------------------------------------------------------------
 
+use think\App;
+
 // [ 应用入口文件 ]
-namespace think;
 
 require __DIR__ . '/../vendor/autoload.php';
 

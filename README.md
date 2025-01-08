@@ -1,6 +1,6 @@
 ![](https://www.thinkphp.cn/uploads/images/20230630/300c856765af4d8ae758c503185f8739.png)
 
-ThinkPHP 8.0
+ThinkPHP 8
 ===============
 
 ## 特性
@@ -10,7 +10,7 @@ ThinkPHP 8.0
 * 依赖`think-orm`3.0版本
 * `6.0`/`6.1`无缝升级
 
-> ThinkPHP8.0的运行环境要求PHP8.0+
+> ThinkPHP8的运行环境要求PHP8.0+
 
 现在开始，你可以使用官方提供的[ThinkChat](https://chat.topthink.com/)，让你在学习ThinkPHP的旅途中享受私人AI助理服务！
 
